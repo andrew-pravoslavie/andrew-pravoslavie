@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**andrew-pravoslavie/andrew-pravoslavie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# γεια σας!
 
-Here are some ideas to get you started:
+*Desenvolvedor Backend Java, apaixonado por Linux e FOSS*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☙ ━━━━━━━━━━━━━━━ ⚜ ━━━━━━━━━━━━━━━ ❧
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-2F2F2F?style=plastic&logo=linux&logoColor=D4AF37" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-2F4F4F?style=plastic&logo=gnu-bash&logoColor=D4AF37" alt="Bash" />
+  <img src="https://img.shields.io/badge/Java-800020?style=plastic&logo=coffeescript&logoColor=D4AF37" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-192A56?style=plastic&logo=python&logoColor=D4AF37" alt="Python" />
+</p>
+
+<p align="center">
+  ☙ ━━━━━━━━━━━━━━━ ❦ ━━━━━━━━━━━━━━━ ❧
+</p>
